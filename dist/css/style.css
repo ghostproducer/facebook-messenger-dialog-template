@@ -101,11 +101,12 @@ nav .info {
   max-width: calc(100% - 95px);
   padding: 7px 14px;
   border-radius: 15px;
-  background: #ddd;
+  background: #e5e5e5;
 }
 
 .ballon .ballon-user {
   float: right;
+  max-width: calc(100% - 95px);
   padding: 7px 14px;
   border-radius: 15px;
   color: #fff;
